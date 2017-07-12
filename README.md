@@ -24,7 +24,17 @@ Opening the project is simple. Select *Open* from the Welcome screen. Next, navi
 
 In this exercise, you'll replace the code in **main.groovy** that uses several `for` loops to calculate the average of the odd integers from 1 to 100
 
+### Exercise 2. Reading lines from a file
 
+In this excercise, you'll replace the appropriate code in **main.groovy** that reads lines of a file and prints each to the screen
+
+### Exercise 3. Reading lines from a file and filtering them
+
+In this exercise, you'll replace the appropriate code in **main.groovy** that reads lines of a file and filters out all the words that do not have `uu` in them.
+
+### Exercise 4. Reading lines from a file and converting each line to an integer
+
+In this exercise, you'll replace the appropriate code in **main.groovy** that reads lines of a file, converts each line into an integer, then filters out the odd numbers, and computes the average of the even numbers
 
 ## Step 4. Committing the code
 
