@@ -20,6 +20,12 @@ Opening the project is simple. Select *Open* from the Welcome screen. Next, navi
 
 ## Step 3. Streams
 
+### Exercise 1. Computing an average
+
+In this exercise, you'll replace the code in **main.groovy** that uses several `for` loops to calculate the average of the odd integers from 1 to 100
+
+
+
 ## Step 4. Committing the code
 
 Commit it, I dare you! :-)
